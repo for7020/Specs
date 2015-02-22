@@ -10,7 +10,7 @@
   },
   "authors": "opencv.org",
   "source": {
-    "http": "https://dl.dropboxusercontent.com/u/26014957/opencv2.framework.2.4.10zip"
+    "http": "https://dl.dropboxusercontent.com/u/26014957/opencv2.framework.2.4.10.zip"
   },
   "platforms": {
     "ios": "4.0"
