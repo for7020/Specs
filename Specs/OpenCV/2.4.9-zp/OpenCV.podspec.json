@@ -10,7 +10,7 @@
   },
   "authors": "opencv.org",
   "source": {
-    "http": "https://dl.dropboxusercontent.com/u/26014957/opencv2.framework.2.4.9.zip"
+    "http": "http://liquidtelecom.dl.sourceforge.net/project/opencvlibrary/opencv-ios/2.4.9/opencv2.framework.zip"
   },
   "platforms": {
     "ios": "4.0"
